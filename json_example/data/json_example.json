@@ -1,0 +1,82 @@
+[
+  {
+    "attitude": 9,
+    "time": 6,
+    "truth": 3,
+    "intensity": 7,
+    "privacy": 9,
+    "y": 0.1863200068473816,
+    "info": "of",
+    "x": 0.2165561318397522
+  },
+  {
+    "attitude": 8,
+    "time": 10,
+    "truth": 7,
+    "intensity": 1,
+    "privacy": 2,
+    "y": 0.875816822052002,
+    "info": "1500s, when an",
+    "x": 0.7308974266052246
+  },
+  {
+    "attitude": 4,
+    "time": 8,
+    "truth": 1,
+    "intensity": 1,
+    "privacy": 7,
+    "y": 0.6308873891830444,
+    "info": "of Letraset sheets containing Lorem Ipsum passages, and",
+    "x": 0.011441648006439209
+  },
+  {
+    "attitude": 1,
+    "time": 5,
+    "truth": 1,
+    "intensity": 10,
+    "privacy": 4,
+    "y": 0.09697765111923218,
+    "info": "with the release",
+    "x": 0.2609953284263611
+  },
+  {
+    "attitude": 1,
+    "time": 4,
+    "truth": 5,
+    "intensity": 3,
+    "privacy": 5,
+    "y": 0.9308934807777405,
+    "info": "the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently",
+    "x": 0.2292044758796692
+  },
+  {
+    "attitude": 10,
+    "time": 10,
+    "truth": 9,
+    "intensity": 1,
+    "privacy": 8,
+    "y": 0.4890998601913452,
+    "info": "simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to",
+    "x": 0.6166226267814636
+  },
+  {
+    "attitude": 6,
+    "time": 10,
+    "truth": 9,
+    "intensity": 5,
+    "privacy": 10,
+    "y": 0.5483353137969971,
+    "info": "Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of",
+    "x": 0.8010805249214172
+  },
+  {
+    "attitude": 10,
+    "time": 2,
+    "truth": 2,
+    "intensity": 4,
+    "privacy": 6,
+    "y": 0.3098766803741455,
+    "info": "Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software",
+    "x": 0.9042984843254089
+  }
+]

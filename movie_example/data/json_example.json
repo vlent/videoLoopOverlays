@@ -1,0 +1,82 @@
+[
+  {
+    "prop2": 2,
+    "prop1": 2,
+    "prop5": 3,
+    "prop3": 8,
+    "prop4": 4,
+    "y": 0.2953836917877197,
+    "info": "Ipsum passages, and more recently with desktop publishing",
+    "x": 0.33386003971099854
+  },
+  {
+    "prop2": 9,
+    "prop1": 10,
+    "prop5": 9,
+    "prop3": 5,
+    "prop4": 3,
+    "y": 0.21411669254302979,
+    "info": "took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software",
+    "x": 0.5301806926727295
+  },
+  {
+    "prop2": 1,
+    "prop1": 9,
+    "prop5": 1,
+    "prop3": 8,
+    "prop4": 9,
+    "y": 0.44210952520370483,
+    "info": "unchanged. It was",
+    "x": 0.39116692543029785
+  },
+  {
+    "prop2": 8,
+    "prop1": 10,
+    "prop5": 10,
+    "prop3": 1,
+    "prop4": 6,
+    "y": 0.4210975766181946,
+    "info": "leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and",
+    "x": 0.37484800815582275
+  },
+  {
+    "prop2": 9,
+    "prop1": 10,
+    "prop5": 6,
+    "prop3": 5,
+    "prop4": 4,
+    "y": 0.6882897615432739,
+    "info": "five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem",
+    "x": 0.9333028793334961
+  },
+  {
+    "prop2": 9,
+    "prop1": 7,
+    "prop5": 3,
+    "prop3": 3,
+    "prop4": 7,
+    "y": 0.6735215187072754,
+    "info": "has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like",
+    "x": 0.5141514539718628
+  },
+  {
+    "prop2": 10,
+    "prop1": 8,
+    "prop5": 7,
+    "prop3": 5,
+    "prop4": 1,
+    "y": 0.737437903881073,
+    "info": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five",
+    "x": 0.6512081623077393
+  },
+  {
+    "prop2": 1,
+    "prop1": 10,
+    "prop5": 8,
+    "prop3": 8,
+    "prop4": 4,
+    "y": 0.5847772359848022,
+    "info": "also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,",
+    "x": 0.5000095963478088
+  }
+]
