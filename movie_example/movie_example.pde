@@ -15,7 +15,7 @@ void setup() {
   //myMovie = new Movie(this, "/Applications/iMovie.app/Contents/Resources/Filmstrip.mov");
   //myMovie = new Movie(this, "/System/Library/Compositions/Yosemite.mov");
  
-  quantifiedDatabase = loadJSONArray("data/json_example.json");
+  quantifiedDatabase = loadJSONArray("data/overlayDatabase.json");
 
 
   myMovie = new Movie(this, "Yosemite.mov");
