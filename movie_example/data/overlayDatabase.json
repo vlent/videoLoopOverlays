@@ -4,7 +4,7 @@
     "time": 7,
     "truth": 10,
     "privacy": 1,
-    "period": 4,
+    "intensity": 4,
     "y": 0.7786087989807129,
     "info": "more recently with",
     "x": 0.7542712092399597
@@ -14,7 +14,7 @@
     "time": 3,
     "truth": 6,
     "privacy": 7,
-    "period": 3,
+    "intensity": 3,
     "y": 0.575372040271759,
     "info": "recently with desktop publishing",
     "x": 0.5199955701828003
@@ -24,7 +24,7 @@
     "time": 4,
     "truth": 7,
     "privacy": 10,
-    "period": 4,
+    "intensity": 4,
     "y": 0.9289734363555908,
     "info": "printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,",
     "x": 0.76087486743927
@@ -34,7 +34,7 @@
     "time": 7,
     "truth": 3,
     "privacy": 1,
-    "period": 10,
+    "intensity": 10,
     "y": 0.9646725058555603,
     "info": "into electronic typesetting,",
     "x": 0.7011989951133728
@@ -44,7 +44,7 @@
     "time": 3,
     "truth": 4,
     "privacy": 3,
-    "period": 5,
+    "intensity": 5,
     "y": 0.0661231279373169,
     "info": "publishing software like Aldus PageMaker including versions of Lorem",
     "x": 0.8575459122657776
@@ -54,7 +54,7 @@
     "time": 9,
     "truth": 8,
     "privacy": 8,
-    "period": 7,
+    "intensity": 7,
     "y": 0.9242103099822998,
     "info": "with desktop publishing software like Aldus PageMaker including",
     "x": 0.2782418131828308
@@ -64,7 +64,7 @@
     "time": 3,
     "truth": 7,
     "privacy": 8,
-    "period": 1,
+    "intensity": 1,
     "y": 0.6042147874832153,
     "info": "like",
     "x": 0.3908373713493347
@@ -74,7 +74,7 @@
     "time": 1,
     "truth": 2,
     "privacy": 10,
-    "period": 10,
+    "intensity": 10,
     "y": 0.36769622564315796,
     "info": "Lorem Ipsum passages, and more recently with desktop",
     "x": 0.07806777954101562
